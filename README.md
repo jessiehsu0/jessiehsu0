@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi! I'm Jessie 
+
+- I'm a first-year student at the University of Colorado Boulder
+- I'm currently learning C++ and Python, with a primary focus on C++
+
+## Connect with me!
+[https://www.linkedin.com/in/jessie-hsu-99509a232/](url)
 
 <!--
 **jessiehsu0/jessiehsu0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
