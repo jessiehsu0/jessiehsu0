@@ -1,6 +1,6 @@
 ## Hi! I'm Jessie 
 
-- I'm a first-year student at the University of Colorado Boulder
+- I'm a second-year student at the University of Colorado Boulder
 - I'm currently learning C++ and Python, with a primary focus on C++
 
 ## Connect with me!
