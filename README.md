@@ -14,7 +14,11 @@
 
 ## Industries of Interest
 
-- MedTech, semiconductors, quantum technology.
+MedTech, semiconductor industry, quantum technology...
+
+## Hobbies/Interests/Misc.
+
+Big fan of cooking and creating good food (the first does not always lead to the second for me -- it is still a trial-and-error process). Almost all of my pets have been named after food. Slowly integrating into the F1 fandom. I like tea a lot.
 
 ## Connect with me!
 [https://www.linkedin.com/in/cujessiehsu/](url)
